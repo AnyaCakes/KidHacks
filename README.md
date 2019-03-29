@@ -1,2 +1,2 @@
 # KidHacks
-Online resource for adorable STEM project for kids
+Online resource for affordable STEM project for kids
